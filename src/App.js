@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           te
         >
-          Become a Dev
+          Become a Developer in BrighterDays CodeLab
         </a>
       </header>
     </div>
